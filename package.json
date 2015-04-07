@@ -1,0 +1,15 @@
+{
+  "name": "Nodejs-Starter",
+  "version": "0.0.0",
+  "description": "Nodejs Starter",
+  "main": "app.js",
+  "author": {
+    "name": "rrivera",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
